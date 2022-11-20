@@ -48,4 +48,11 @@ section {
     text-transform: uppercase;
     font-weight: bold;
     letter-spacing: 0.1em;
+    font-size: 30px;
 }
+
+.home-image {
+    width: 90%;
+    margin-top: 2.5em;
+}
+
